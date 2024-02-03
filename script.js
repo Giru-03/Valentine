@@ -12,7 +12,7 @@ function no(){
 function yes(){
     Email.send({
         SecureToken : "95d91edd-7c37-460c-bf70-3e94bace57c6",
-        To : "sahil.rajesh2022@vitstudent.ac.in",
+        To : "girendra654singh@gmail.com",
         From : "girendra.singh2003@gmail.com",
         Subject : "It's a Yes",
         Body : "Ladhaki ne haan bol di!!!"
